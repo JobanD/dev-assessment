@@ -19,7 +19,6 @@ Some key things to note:
 - install necessary libraries
 
 ```console
-foo@bar:~$ whoami
 pip install pandas
 pip install numpy
 pip install matplotlib
