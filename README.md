@@ -1,7 +1,7 @@
 # DEV Assessment
 
-DATABASE IS NOT HOSTED ONLINE
-Read below for steps to recreate if needed
+DATABASE IS NOT HOSTED ONLINE <br />
+Read below for steps to recreate if needed<br />
 This project was created as per the request of a company during the interview process.
 
 ## NOTES
